@@ -21,6 +21,6 @@ Select "Import selected environment settings"
 
 <img width="508" alt="image" src="https://github.com/user-attachments/assets/c77e9dfe-b4c4-49bd-b08d-1a59501fdccb" />
 
-And from there, browse for .vssettings file
+And from there, browse for the .vssettings file
 
 Feel free to make prs and suggestions!
