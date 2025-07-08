@@ -1,4 +1,7 @@
 # Our Visual Studio settings and configs for UE 5.6
+
+**Warning: Text sizes were configured for 4k display resolution**
+
 This repository contains two files:
 - `.vsconfig`: All the individual components that we have installed with Visual Studio
 - `.vssettings`: All the individual setting changes that we have made to make working with Visual Studio a bit better
