@@ -4,6 +4,8 @@ This repository contains two files:
 - `.vssettings`: All the individual setting changes that we have made to make working with Visual Studio a bit better
 
 ## To use these
+First, download the files
+
 ### .vsconfig
 Go to the Visual Studio Installer, and click on More > Import Configuration
 ![image](https://github.com/user-attachments/assets/d5a0b05a-9a37-46fa-ba63-6f708e3bc7af)
