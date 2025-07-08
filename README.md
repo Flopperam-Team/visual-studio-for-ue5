@@ -1,4 +1,4 @@
-# Our Visual Studio settings and configs for UE 5.6
+# Our Visual Studio 2022 settings and configs for UE 5.6
 
 **Warning: Text sizes were configured for 4k display resolution**
 
