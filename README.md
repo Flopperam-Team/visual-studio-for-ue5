@@ -1,4 +1,4 @@
-# Our Visual Studio settings and configs
+# Our Visual Studio settings and configs for UE5.6
 This repository contains two files:
 - `.vsconfig`: All the individual components that we have installed with Visual Studio
 - `.vssettings`: All the individual setting changes that we have made to make working with Visual Studio a bit better
